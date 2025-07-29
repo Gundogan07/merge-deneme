@@ -1,1 +1,1 @@
-buproje GG aittir
+buproje GG aittir.GG değil Gokhan Gundoğandır
